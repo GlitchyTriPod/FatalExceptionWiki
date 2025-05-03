@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Major/Red.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Red"
+              "title": "Index"
             }
           }
         ]
@@ -104,6 +104,9 @@
   },
   "active": "a413a55403b2e189",
   "lastOpenFiles": [
+    "docs/index.html",
+    "Index.md",
+    "Characters/Major/Red.md",
     "docs/characters/major/attachments/lachesis_attachments/stage3.png",
     "docs/characters/major/attachments/red_attachments/stage3.png",
     "docs/characters/major/attachments/red_attachments/pg2.png",
@@ -124,7 +127,6 @@
     "docs/site-lib/fonts/cbe0ae49c52c920fd563.woff2",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "docs/site-lib/media/6155340132a851f6089e.svg",
     "Characters/Major/Black.md",
     "Characters/Major/Nadir.md",
     "Characters/Major/Polymer.md",
@@ -148,8 +150,6 @@
     "Characters/Minor/Plasma's Foster Parents.md",
     "Technology/Cybermessiah.md",
     "Technology/Tether.md",
-    "Technology/Bio-mechanical Grease.md",
-    "Places/System 20XX/Threshold Obfuscation Field.md",
     "Untitled.canvas"
   ]
 }

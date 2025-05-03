@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Index.md",
+      "timestamp": 1746243612216
+    },
+    {
       "filepath": "Characters/Major/Red.md",
       "timestamp": 1746243255046
     },
@@ -34,14 +38,6 @@
     {
       "filepath": "Characters/Major/Nadir.md",
       "timestamp": 1746243254552
-    },
-    {
-      "filepath": "Characters/Major/Polymer.md",
-      "timestamp": 1746243254419
-    },
-    {
-      "filepath": "Characters/Major/Photon.md",
-      "timestamp": 1746243254290
     }
   ],
   "bookmarkedFileStore": [],
