@@ -1,0 +1,50 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Fatal Exception Wiki",
+  "customFont": "monospaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Characters/Major/Red.md",
+      "timestamp": 1746240885451
+    },
+    {
+      "filepath": "Characters/Major/Black.md",
+      "timestamp": 1746240885129
+    },
+    {
+      "filepath": "Characters/Major/Nadir.md",
+      "timestamp": 1746240885003
+    },
+    {
+      "filepath": "Characters/Major/Polymer.md",
+      "timestamp": 1746240884878
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}
