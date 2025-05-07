@@ -3,13 +3,15 @@ cssclasses:
   - notitle
   - character
 fighting_style: Malnova Tera Batalstilo
-combat_ability: "[[Body Augmentation#Electrolyte|Electrolyte]]"
+combat_ability: "[[Body Augmentation#Improved Tolerance Electrolyte Absorption|Electrolyte]]"
 height: 5' 8"
 weight: 177 lbs (80 kg)
 pronouns: He/Him
 faction: "[[Malnova Tero Militia]] (Affiliation Only)"
 likes: Even fights, Conflict, Motorized Vehicles
 dislikes: Peace, Subversion, Power Imbalances
+tags:
+  - Immortals
 ---
 <sub>**The Second Immortal Being**</sub>
 # Red

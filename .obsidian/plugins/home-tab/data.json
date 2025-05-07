@@ -20,24 +20,28 @@
   "showPath": true,
   "selectionHighlight": "default",
   "showShortcuts": true,
-  "markdownOnly": false,
+  "markdownOnly": true,
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Index.md",
-      "timestamp": 1746243612216
+      "filepath": "Technology/Body Augmentation.md",
+      "timestamp": 1746580330311
     },
     {
-      "filepath": "Characters/Major/Red.md",
-      "timestamp": 1746243255046
+      "filepath": "Templates/Faction.md",
+      "timestamp": 1746580292447
     },
     {
-      "filepath": "Characters/Major/Black.md",
-      "timestamp": 1746243254676
+      "filepath": "Factions/The Four Immortal Beings.md",
+      "timestamp": 1746580287371
     },
     {
-      "filepath": "Characters/Major/Nadir.md",
-      "timestamp": 1746243254552
+      "filepath": "Templates/Character.md",
+      "timestamp": 1746580270285
+    },
+    {
+      "filepath": "Terminology/Universal Cycle.md",
+      "timestamp": 1746580267298
     }
   ],
   "bookmarkedFileStore": [],

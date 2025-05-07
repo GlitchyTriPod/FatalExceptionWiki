@@ -115,7 +115,7 @@
     },
     "themeToggleOptions": {
       "featureId": "theme-toggle",
-      "enabled": false,
+      "enabled": true,
       "unavailable": false,
       "alwaysEnabled": false,
       "displayTitle": "",
@@ -204,7 +204,9 @@
     "faviconPath": "",
     "iconEmojiStyle": "Native",
     "exportRoot": "",
-    "includePluginCss": [],
+    "includePluginCss": [
+      "home-tab"
+    ],
     "includeStyleCssIds": [],
     "autoDisposeWebpages": true
   },

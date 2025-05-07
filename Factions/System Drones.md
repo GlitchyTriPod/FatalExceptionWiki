@@ -1,10 +1,11 @@
-# E-Class
+## E-Class
 
-# C-Class
+## C-Class
 
-# O-Class
+## O-Class
 
-# Haywires
+#### *Haywires*
 
-# Defects
+## Defects
+
 #### *Sentience/Self-Awareness*

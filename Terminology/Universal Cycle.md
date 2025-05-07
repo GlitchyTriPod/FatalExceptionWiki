@@ -1,0 +1,4 @@
+# Universal Cycle
+"Universal Cycle" refers to the infinite cycle of death and rebirth that the universe undergoes. This is a result of [[The Author]] creating Death, giving existence and nothingness an ending. The cycle is restarted when the [[Placenta of the Fourth]] is executed, drawing all matter in the universe into itself, and then [re-expanding out after the collapse](https://en.wikipedia.org/wiki/Big_Bounce).
+
+The only things that persist through the rebirth of the universe are [[The Four Immortal Beings]], although [[White]] was able to find a way to break this rule, allowing the [[Elioud]] to survive.
