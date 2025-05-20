@@ -1,8 +1,11 @@
+# Body Augmentation
+Add some description here about body augmentations, how they generally work, etc. Mention that Adrian is the pioneer in these biological sciences (much like all other sciences in this setting....). but also it is important to know that these are relatively new -- newer than the drones and pretty much all of the mechanical stuff that is going on inside the System.
+
 ## Improved Tolerance Electrolyte Absorption 
 <sup>**Simplified Name:** *Electrolyte*</sup>
 [[Red]]'s ability.
 
-uuuh just remember that there are industrial use electrolytes in compunds like saltpeter and sodium chlorite (NOT chloride)
+uuuh just remember that there are industrial use electrolytes in compounds like saltpeter and sodium chlorite (NOT chloride)
 
 ## Magnetic Confinement Plasma Blade
 [[Plasma]]'s ability.

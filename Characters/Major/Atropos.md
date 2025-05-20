@@ -10,6 +10,8 @@ pronouns: It/Its*
 faction: "[[System Drones]]"
 likes: Direction, Purpose, Maintaining System Integrity
 dislikes: Free will, Humanity, Anomalies
+tags:
+ - Drones
 ---
 <sub>**E-Class Specialized Combat Drone, Serial Number \#E9924**</sub>
 # Atropos
@@ -51,7 +53,7 @@ flexGrow=1
 ``````
 
 ### *Bio*
-System Drone \#E9924 (unit model name "Atropos") is an [[System Drones#E-Class|E-Class System Drone]] that was designated as a specialized combat unit through [[Drone Technology#Capability Enhancement Thrusters| CET]] upgrades. As a result of [[Black]]'s interference with [[The System]] under [[Central Administration]]'s nose prior to [[Severing of the Connection|the Connection being severed]], Atropos was constructed as a defect with [[System Drones#*Sententience/Self-Awareness*|sentience]].
+System Drone \#E9924 (unit model name "Atropos") is an [[Drone Technology#E-Class|E-Class System Drone]] that was designated as a specialized combat unit through [[Drone Technology#Capability Enhancement Thrusters| CET]] upgrades. As a result of [[Black]]'s interference with [[The System]] under [[Central Administration]]'s nose prior to [[Severing of the Connection|the Connection being severed]], Atropos was constructed as a defect with [[Drone Technology#*Sententience/Self-Awareness*|sentience]].
 
 Following orders from [[Central Administration]], Atropos is commanded to execute (destroy) all [[Anomaly|Anomalies]]. Upon the completion of their first task after construction -- the execution of [[Hugh]] after his [[Empyrean Space Department of Defense|ESDD]] platoon came through [[The Threshold]] -- Atropos became cognizant of their sentience.
 

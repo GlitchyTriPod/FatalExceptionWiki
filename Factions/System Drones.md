@@ -1,11 +1,36 @@
-## E-Class
+---
+cssclasses:
+  - notitle
+faction_tag: Drones
+---
+<sub>**A short descriptor**</sub>
+# System Drones
+<sup>*A punchy tagline.*</sup>
 
-## C-Class
+````col
 
-## O-Class
+```col-md
+FlexGrow=2
+===
 
-#### *Haywires*
+Insert Text here
 
-## Defects
+```
 
-#### *Sentience/Self-Awareness*
+```col-md
+flextGrow=1
+===
+
+\[Insert Image\]
+
+```
+
+````
+
+## *Members*
+```dataview
+list from #Drones
+```
+
+## *History*
+insert info here

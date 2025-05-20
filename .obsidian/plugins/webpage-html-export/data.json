@@ -12,6 +12,7 @@
     "inlineHTML": false,
     "exportPath": "X:\\ObsidianVaults\\FatalException\\FatalException\\docs",
     "filesToExport": [
+      "attachments",
       "Characters",
       "Events",
       "Factions",

@@ -10,6 +10,8 @@ pronouns: She/Her
 faction: "[[Central Administration]]"
 likes: Ambition, Her precious “Sisters”, Experimentation
 dislikes: Disobedience, Societal Norms, Boredom
+tags:
+ - Drones
 ---
 <sub>**O-Class Administration Drone, Serial Number \#O0303**</sub>
 # Lachesis
@@ -52,7 +54,7 @@ flexGrow=1
 
 ``````
 
-With Pale\<Comedy>'s new instruction set, Lachesis became [[System Drones#*Sentience/Self-Awareness*|sentient]]. Along with this newfound self-awareness, she found herself with knowledge about a machine known as the [[Placenta of the Fourth]], not understanding how she knew of the schematics, but understanding that it could bestow unbelievable power unto her. Now a defect (and with her [[Drone Technology#Personality Mimesis Drive| Personality Mimesis Drive]] damaged), Lachesis obsessively pursued the construction of the Placenta, alongside [[Lachesis#Abilities|installing off-model drone parts onto herself]] and creating [[System Drones#Haywires|Haywires]] from the remains of her fellow O-Class drones. 
+With Pale\<Comedy>'s new instruction set, Lachesis became [[Drone Technology#*Sentience/Self-Awareness*|sentient]]. Along with this newfound self-awareness, she found herself with knowledge about a machine known as the [[Placenta of the Fourth]], not understanding how she knew of the schematics, but understanding that it could bestow unbelievable power unto her. Now a defect (and with her [[Drone Technology#Personality Mimesis Drive| Personality Mimesis Drive]] damaged), Lachesis obsessively pursued the construction of the Placenta, alongside [[Lachesis#Abilities|installing off-model drone parts onto herself]] and creating [[System Drones#Haywires|Haywires]] from the remains of her fellow O-Class drones. 
 
 As a result of her actions, Lachesis provokes conflict between her, [[Atropos]], [[Hugh]], and [[Red]]. After Atropos realizes that Lachesis is a defect (and that the Placenta is an existential threat to [[The System]]), Atropos destroys her. With a momentary agreement, Atropos allows Red to destroy the Placenta, which takes out most of Central Administration with it. Because of Central Administration's destruction, Lachesis is unable to be completely rebuilt.
 

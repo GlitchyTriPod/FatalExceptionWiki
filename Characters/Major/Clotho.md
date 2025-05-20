@@ -9,6 +9,8 @@ weight: insert weight
 pronouns: insert pronouns
 likes: like 1, like 2, like 3
 dislikes: dislike 1, dislike 2, dislike 3
+tags:
+ - Drones
 ---
 <sub>**A short descriptor**</sub>
 # Clotho

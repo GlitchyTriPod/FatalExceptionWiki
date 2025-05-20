@@ -2,5 +2,6 @@
   "attachmentFolderPath": ".//attachments",
   "showInlineTitle": true,
   "showUnsupportedFiles": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }
